@@ -16,7 +16,7 @@ public class classe1
     public classe1()
     {
         // initialisation des variables d'instance
-        x = 0;
+        x = 02;
     }
 
     /**
